@@ -1,0 +1,11 @@
+sensor_name W1a 
+measurement_date 2024-09-27 
+col_name 1 
+row_name 1 
+measurement_descr KU_Ori_2
+
+sensor_name W1a 
+measurement_date 2024-09-27 
+col_name 1 
+row_name 1 
+measurement_descr KU_Ori_2
